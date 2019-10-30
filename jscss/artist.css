@@ -1,0 +1,24 @@
+.att { padding:0px; margin:0px; height:100%; z-index:2; }
+.linkbutton { text-align:center; margin-top:5px; padding:5px; }
+.embed { vertical-align:text-top; padding:0px; margin:0px; border:0px,0px,0px,0px; width:100%; }
+.noborder { border-width:0px; margin-top:-1px; padding-top:-1px; margin-bottom:-1px; padding-bottom:-1px; }
+
+body {
+	text-align: center;
+}
+#ssql_body_contents {
+	display: inline-block;
+	text-align: left;
+}
+
+.TFE10008{ width:200px; }
+.TFE10009{ width:200px; }
+.TFE10010{ width:400px; }
+.TFE10011{ width:400px; }
+.TFE10024{ width:200px; }
+.TFE10029{ width:200px; }
+.TFE10034{ width:400px; }
+.TFE10038{ width:400px; }
+.TFE10043{ width:560px; }
+
+
